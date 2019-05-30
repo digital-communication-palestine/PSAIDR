@@ -1,0 +1,2 @@
+https://archive.org/download/full_grams_cbow_300_twitter/full_uni_sg_100_twitter.zip
+https://github.com/bakrianoo/aravec
